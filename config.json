@@ -1,0 +1,8 @@
+{
+	"platformName" : "Android",
+	"udid" : "emulator-5554",
+	"automationName" : "UiAutomator2",
+	"appPackage" : "com.example.flutter_login",
+	"appActivity" : "com.example.flutter_login.MainActivity",
+	"appiumURL" : "http://0.0.0.0:4723/wd/hub"
+}
